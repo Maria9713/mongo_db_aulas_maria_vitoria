@@ -8,5 +8,4 @@ const collection = 'libri-colletion';
 use(database);
 
 // CRIAR A COLLETION  livri-colletion 
-
 db.createCollection(collection)
